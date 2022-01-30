@@ -1,0 +1,291 @@
+ios/Podfile
+ios/Podfile.lock
+ios/.symlinks/plugins/fluttertoast
+ios/Flutter/AppFrameworkInfo.plist
+ios/Flutter/Debug.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Pods/Manifest.lock
+ios/Pods/Local Podspecs/Flutter.podspec.json
+ios/Pods/Local Podspecs/fluttertoast.podspec.json
+ios/Pods/Pods.xcodeproj/project.pbxproj
+ios/Pods/Pods.xcodeproj/xcuserdata/plucenio.xcuserdatad/xcschemes/Flutter.xcscheme
+ios/Pods/Pods.xcodeproj/xcuserdata/plucenio.xcuserdatad/xcschemes/fluttertoast.xcscheme
+ios/Pods/Pods.xcodeproj/xcuserdata/plucenio.xcuserdatad/xcschemes/Pods-Runner.xcscheme
+ios/Pods/Pods.xcodeproj/xcuserdata/plucenio.xcuserdatad/xcschemes/Toast.xcscheme
+ios/Pods/Pods.xcodeproj/xcuserdata/plucenio.xcuserdatad/xcschemes/xcschememanagement.plist
+ios/Pods/Target Support Files/Flutter/Flutter.debug.xcconfig
+ios/Pods/Target Support Files/Flutter/Flutter.release.xcconfig
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-dummy.m
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Debug-input-files.xcfilelist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Debug-output-files.xcfilelist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Profile-input-files.xcfilelist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Profile-output-files.xcfilelist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Release-input-files.xcfilelist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Release-output-files.xcfilelist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-Info.plist
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-umbrella.h
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.modulemap
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig
+ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig
+ios/Pods/Target Support Files/Toast/Toast-dummy.m
+ios/Pods/Target Support Files/Toast/Toast-Info.plist
+ios/Pods/Target Support Files/Toast/Toast-prefix.pch
+ios/Pods/Target Support Files/Toast/Toast-umbrella.h
+ios/Pods/Target Support Files/Toast/Toast.debug.xcconfig
+ios/Pods/Target Support Files/Toast/Toast.modulemap
+ios/Pods/Target Support Files/Toast/Toast.release.xcconfig
+ios/Pods/Target Support Files/fluttertoast/fluttertoast-dummy.m
+ios/Pods/Target Support Files/fluttertoast/fluttertoast-Info.plist
+ios/Pods/Target Support Files/fluttertoast/fluttertoast-prefix.pch
+ios/Pods/Target Support Files/fluttertoast/fluttertoast-umbrella.h
+ios/Pods/Target Support Files/fluttertoast/fluttertoast.debug.xcconfig
+ios/Pods/Target Support Files/fluttertoast/fluttertoast.modulemap
+ios/Pods/Target Support Files/fluttertoast/fluttertoast.release.xcconfig
+ios/Pods/Toast/license
+ios/Pods/Toast/README.md
+ios/Pods/Toast/Toast/UIView+Toast.h
+ios/Pods/Toast/Toast/UIView+Toast.m
+ios/Pods/Toast/Toast-Framework/Toast.h
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+ios/Runner.xcworkspace/contents.xcworkspacedata
+.dart_tool/package_config_subset
+.dart_tool/package_config.json
+.dart_tool/version
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/.filecache
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/app.dill
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/debug_ios_bundle_flutter_assets.stamp
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/debug_universal_framework.stamp
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/debug_unpack_ios.stamp
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/flutter_assets.d
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/gen_dart_plugin_registrant.stamp
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/gen_localizations.stamp
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/kernel_snapshot.d
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/kernel_snapshot.stamp
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/outputs.json
+.dart_tool/flutter_build/1df42d7e19d62167b9a74658344af870/App.framework/App
+build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill
+build/99519ca2a00a6a3320d107eb63d664b1/_composite.stamp
+build/99519ca2a00a6a3320d107eb63d664b1/gen_dart_plugin_registrant.stamp
+build/99519ca2a00a6a3320d107eb63d664b1/gen_localizations.stamp
+build/ios/Debug-iphonesimulator/.last_build_id
+build/ios/Debug-iphonesimulator/App.framework/App
+build/ios/Debug-iphonesimulator/App.framework/Info.plist
+build/ios/Debug-iphonesimulator/App.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/AssetManifest.json
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/FontManifest.json
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/isolate_snapshot_data
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/kernel_blob.bin
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/NOTICES.Z
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/vm_snapshot_data
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/fluttertoast/assets/toastify.css
+build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/fluttertoast/assets/toastify.js
+build/ios/Debug-iphonesimulator/Flutter.framework/Flutter
+build/ios/Debug-iphonesimulator/Flutter.framework/icudtl.dat
+build/ios/Debug-iphonesimulator/Flutter.framework/Info.plist
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
+build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap
+build/ios/Debug-iphonesimulator/Flutter.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/Info.plist
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/Pods_Runner
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/Headers/Pods-Runner-umbrella.h
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/Modules/module.modulemap
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeDirectory
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeRequirements
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeRequirements-1
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Pods_Runner.framework/_CodeSignature/CodeSignature
+build/ios/Debug-iphonesimulator/Runner.app/AppFrameworkInfo.plist
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon20x20@2x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon20x20@2x~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon20x20@3x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon20x20~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon29x29.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon29x29@2x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon29x29@2x~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon29x29@3x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon29x29~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon40x40@2x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon40x40@2x~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon40x40@3x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon40x40~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon60x60@2x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon60x60@3x.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon76x76~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/AppIcon83.5x83.5@2x~ipad.png
+build/ios/Debug-iphonesimulator/Runner.app/Assets.car
+build/ios/Debug-iphonesimulator/Runner.app/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/PkgInfo
+build/ios/Debug-iphonesimulator/Runner.app/Runner
+build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/fluttertoast/assets/toastify.css
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/fluttertoast/assets/toastify.js
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Toast.framework/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Toast.framework/Toast
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Toast.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/fluttertoast.framework/fluttertoast
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/fluttertoast.framework/Info.plist
+build/ios/Debug-iphonesimulator/Runner.app/Frameworks/fluttertoast.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/Runner.swiftmodule/x86_64-apple-ios-simulator.swiftdoc
+build/ios/Debug-iphonesimulator/Runner.swiftmodule/x86_64-apple-ios-simulator.swiftmodule
+build/ios/Debug-iphonesimulator/Runner.swiftmodule/x86_64.swiftdoc
+build/ios/Debug-iphonesimulator/Runner.swiftmodule/x86_64.swiftmodule
+build/ios/Debug-iphonesimulator/Runner.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo
+build/ios/Debug-iphonesimulator/Runner.swiftmodule/Project/x86_64.swiftsourceinfo
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/Info.plist
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/Toast
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast-umbrella.h
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/Headers/Toast.h
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/Headers/UIView+Toast.h
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/Modules/module.modulemap
+build/ios/Debug-iphonesimulator/Toast/Toast.framework/_CodeSignature/CodeResources
+build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/fluttertoast
+build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Info.plist
+build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Headers/fluttertoast-umbrella.h
+build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Headers/FluttertoastPlugin.h
+build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Modules/module.modulemap
+build/ios/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/_CodeSignature/CodeResources
+build/ios/iphonesimulator/Runner.app/AppFrameworkInfo.plist
+build/ios/iphonesimulator/Runner.app/AppIcon20x20@2x.png
+build/ios/iphonesimulator/Runner.app/AppIcon20x20@2x~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon20x20@3x.png
+build/ios/iphonesimulator/Runner.app/AppIcon20x20~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon29x29.png
+build/ios/iphonesimulator/Runner.app/AppIcon29x29@2x.png
+build/ios/iphonesimulator/Runner.app/AppIcon29x29@2x~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon29x29@3x.png
+build/ios/iphonesimulator/Runner.app/AppIcon29x29~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon40x40@2x.png
+build/ios/iphonesimulator/Runner.app/AppIcon40x40@2x~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon40x40@3x.png
+build/ios/iphonesimulator/Runner.app/AppIcon40x40~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon60x60@2x.png
+build/ios/iphonesimulator/Runner.app/AppIcon60x60@3x.png
+build/ios/iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon76x76~ipad.png
+build/ios/iphonesimulator/Runner.app/AppIcon83.5x83.5@2x~ipad.png
+build/ios/iphonesimulator/Runner.app/Assets.car
+build/ios/iphonesimulator/Runner.app/Info.plist
+build/ios/iphonesimulator/Runner.app/PkgInfo
+build/ios/iphonesimulator/Runner.app/Runner
+build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist
+build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/fluttertoast/assets/toastify.css
+build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/fluttertoast/assets/toastify.js
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap
+build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources
+build/ios/iphonesimulator/Runner.app/Frameworks/Toast.framework/Info.plist
+build/ios/iphonesimulator/Runner.app/Frameworks/Toast.framework/Toast
+build/ios/iphonesimulator/Runner.app/Frameworks/Toast.framework/_CodeSignature/CodeResources
+build/ios/iphonesimulator/Runner.app/Frameworks/fluttertoast.framework/fluttertoast
+build/ios/iphonesimulator/Runner.app/Frameworks/fluttertoast.framework/Info.plist
+build/ios/iphonesimulator/Runner.app/Frameworks/fluttertoast.framework/_CodeSignature/CodeResources
+build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources
+build/ios/Runner.build/Debug-iphoneos/Runner.build/dgph
+build/ios/Runner.build/Debug-iphonesimulator/Runner.build/dgph
+build/ios/Runner.build/Release-iphoneos/Runner.build/dgph
+build/ios/Runner.build/Debug-iphoneos/Runner.build/dgph
+build/ios/Runner.build/Debug-iphonesimulator/Runner.build/dgph
+build/ios/Runner.build/Release-iphoneos/Runner.build/dgph
+build/ios/Runner.build/Debug-iphoneos/Runner.build/dgph
+build/ios/Runner.build/Debug-iphonesimulator/Runner.build/dgph
+build/ios/Runner.build/Release-iphoneos/Runner.build/dgph
